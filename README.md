@@ -1,4 +1,4 @@
 # nagayouth
-Analysis of my online survey on Nagaland using R
+Using R shiny for interactive analysis of survey data on Nagaland.
 
-Part of my PhD thesis on the social structure of the urban Naga youth at Humboldt University.
+The survey was part of my PhD research on the social structure of the urban Naga youth.
